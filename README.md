@@ -28,8 +28,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Giphy Capture
-GIF created with ...  
-![Wishlist](https://github.com/XavierC003/Wishlist/assets/156828428/2d49c1ef-eba2-4c0f-bdfb-72c42e0b5269)
+![Wishlist](https://github.com/XavierC003/Wishlist/assets/156828428/f68b1e6a-e669-44a8-87b4-870a24e3155a)
+
 
 
 ## Notes
